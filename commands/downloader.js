@@ -140,7 +140,7 @@ cmd({
                 },
                 caption: `
 ╭───────────────◆
-│⿻ ${♡හෂි'හ්♡().title} 
+│⿻ ${tlang().title} 
 │  *Youtube Player* ✨
 │⿻ *Title:* ${anu.title}
 │⿻ *Duration:* ${anu.timestamp}
